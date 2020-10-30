@@ -1,0 +1,1 @@
+INSERT INTO cdp_benchmark.identities (identifier,identifier_type,customer_id,cdp_uid,active,conflicting_ids,created_time,nature,resolver_id,resolver_id_type) VALUES ('em1','email', 123, 1, true, null, toTimestamp(now()), 'D','em1', 'email');

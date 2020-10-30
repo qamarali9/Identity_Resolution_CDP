@@ -1,0 +1,22 @@
+2020-09-21 05:05:24,790 - __main__ - INFO - create_db() called
+2020-09-21 05:05:25,287 - __main__ - INFO - Created keyspace cdp_benchmark
+2020-09-21 05:05:25,288 - __main__ - INFO - create_table() called
+2020-09-21 05:11:17,414 - __main__ - INFO - create_db() called
+2020-09-21 05:11:17,415 - __main__ - ERROR - (In create_db()) Could not create keyspace - cdp_benchmark
+2020-09-21 05:11:17,415 - __main__ - INFO - create_table() called
+2020-09-21 05:11:17,416 - __main__ - ERROR - (In create_table()) Could not create table - identities
+2020-09-21 05:18:15,136 - __main__ - INFO - create_db() called
+2020-09-21 05:18:15,691 - __main__ - INFO - Created keyspace cdp_benchmark
+2020-09-21 05:18:43,619 - __main__ - INFO - create_db() called
+2020-09-21 05:18:43,620 - __main__ - ERROR - (In create_db()) Could not create keyspace - cdp_benchmark
+2020-09-21 05:18:43,620 - __main__ - INFO - create_table_identities() called
+2020-09-21 05:18:48,787 - __main__ - INFO - create_table_events() called
+2020-09-21 05:19:22,346 - __main__ - INFO - create_db() called
+2020-09-21 05:19:22,910 - __main__ - INFO - Created keyspace cdp_benchmark
+2020-09-21 05:19:22,911 - __main__ - INFO - create_table_identities() called
+2020-09-21 05:19:27,793 - __main__ - INFO - create_table_events() called
+2020-09-21 06:30:42,963 - __main__ - INFO - create_db() called
+2020-09-21 06:30:42,965 - __main__ - ERROR - (In create_db()) Could not create keyspace - cdp_benchmark
+2020-09-21 06:30:42,965 - __main__ - INFO - create_table_identities() called
+2020-09-21 06:30:42,966 - __main__ - ERROR - (In create_table()) Could not create table - identities
+2020-09-21 06:30:42,966 - __main__ - INFO - create_table_events() called
